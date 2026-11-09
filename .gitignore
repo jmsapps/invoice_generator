@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Tooling
+.ruff_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+
+# Agent instructions
+AGENTS.md
+CLAUDE.md
+
+# Client data: configs, timesheets and generated invoices are private.
+# Only the committed example ships with the repo.
+clients/*
+!clients/example/
+
+# Excel lock files
+~$*

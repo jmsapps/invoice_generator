@@ -1,0 +1,18 @@
+To: billing@example.com
+From: you@example.com
+Subject: Invoice EXAMPLE-2026-10 - October 2026
+
+Dear Example Client Ltd.,
+
+Attached is invoice for month October 2026.
+
+Invoice number: EXAMPLE-2026-10
+Billing period: 2026-10-01 to 2026-10-31
+Amount due: EUR 10,824.00
+Due date: 2026-12-09
+
+Please let me know if anything needs adjusting.
+
+Best regards,
+Your Name
+you@example.com
